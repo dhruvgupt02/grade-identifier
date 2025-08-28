@@ -1,7 +1,7 @@
 int main()
 {
  int percentage;
- printf("enter grade : ");
+ printf("enter percentage : ");
  scanf("%d", &percentage);
  if (percentage>=33 && percentage<50){
      printf("grade : E ");
